@@ -1,4 +1,4 @@
-# SQL Audit Snippet Library — Free Sample
+# SQL Audit Snippet Library - Free Sample
 
 *by ControlSmith Tools · audit evidence, ready to run.*
 
@@ -22,9 +22,9 @@ gotcha that bites in real audits).
 The complete **SQL Audit Snippet Library** ($29 mini-pack / $79 full pack) adds:
 
 - **100 SQL Server snippets** plus **100 PostgreSQL equivalents** (v12–16)
-- **Examples Workbook.xlsx** — worked examples with real outputs per category
-- **Adaptation Prompt Sheet** — 10 AI prompt templates for adapting snippets to your schema
-- **SQL Server + Postgres sample database** — schema, seed data, and a per-snippet crosswalk, QA-run end-to-end on SQL Server 2025 and PostgreSQL 16
+- **Examples Workbook.xlsx** - worked examples with real outputs per category
+- **Adaptation Prompt Sheet** - 10 AI prompt templates for adapting snippets to your schema
+- **SQL Server + Postgres sample database** - schema, seed data, and a per-snippet crosswalk, QA-run end-to-end on SQL Server 2025 and PostgreSQL 16
 
 → **[controlsmithtools.com](https://controlsmithtools.com)**
 
