@@ -19,7 +19,7 @@ gotcha that bites in real audits).
 
 ## The full pack
 
-The complete **SQL Audit Snippet Library** ($29 mini-pack / $79 full pack) adds:
+The complete **SQL Audit Snippet Library** ($79 full pack) adds:
 
 - **100 SQL Server snippets** plus **100 PostgreSQL equivalents** (v12–16)
 - **Examples Workbook.xlsx** - worked examples with real outputs per category
